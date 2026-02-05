@@ -49,20 +49,20 @@
 
 % ===== Título =====
 \begin{center}
-    {\Large\scshape Titulo}\\[0.3em]
+    {\Large\scshape Tarea 1}\\[0.3em]
 \end{center}
 
 \vspace{0.1cm}
 
 % Fecha
 \begin{center}
-    \small\scshape 29 de enero de 2026
+    \small\scshape 6 de febrero de 2026
 \end{center}
 
-\vspace{0.2cm}
+\vspace{0.3cm}
 
 % Línea horizontal inferior (gruesa)
-\noindent\rule{\textwidth}{1.2pt}
+\noindent\rule{\textwidth}{1.3pt}
 
 \vspace{0.6cm}
 
@@ -79,21 +79,14 @@
 }
 
 
-\section{Objetivos}
+\section{Breve ensayo sobre progración en matematicás}
+    El area de investigacion en el campo de la matematica que me interesa
+    es el area de a la topologia, esto significa la constante necesidad
+    de crear formas complejas en el espacio, y otros modelos tridimensionales.
 
-\section{Marco Teórico}
+    Sin mencionar otras areas de estudio superiores de las que no puedo imaginar
+    la necesidad del uso de la programcion para la resolucion de los problemas.
 
-\section{Diseño Experimental}
-
-\section{Resultados}
-
-\section{Discusión de Resultados}
-
-\section{Conclusiones}
-
-\section{Referencias}
-
-\section{Anexos}
 \end{document}
 
 \end{document}
